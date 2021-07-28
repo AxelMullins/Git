@@ -87,6 +87,6 @@ section li {
 footer {
     padding: 1em;
     background-color: black;
-    color: white;
+    color: rgb(212, 212, 212);
     text-align: center;
 }
